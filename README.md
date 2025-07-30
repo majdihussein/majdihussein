@@ -1,11 +1,6 @@
-## Hi there 👋
+Hi there 👋
+🔭 I’m currently working on .NET Core Development
 
-<!--
-**majdihussein/majdihussein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Docker and DevOps Features
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on .Net Core Development
-- 🌱 I’m currently learning Docker, DevOps Feutures
-- 💬 Ask me about C#, RESTfulAPI
--->
+💬 Ask me about C# and RESTful API
